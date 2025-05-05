@@ -1,7 +1,7 @@
 ﻿import React, { useState, useEffect } from "react";
 import "./Projects.css";
 import pokedex from "../assets/pokedex.png";
-import todo from "../assets/todolist.png";
+import todo from "../assets/todo.png";
 import supply from "../assets/supply.png";
 import libro from "../assets/libro.png";
 
